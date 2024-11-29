@@ -13,7 +13,7 @@ Główne wyzwanie polega na opracowaniu modelu predykcyjnego, który dokładnie 
 ## Źródło i charakterystyka danych
 
 ### Źródło danych
-Dane pochodzą z https://www.kaggle.com/datasets/sidhus/crab-age-prediction. Zbiór danych zawiera pomiary fizyczne krabów oraz informacje o ich wieku.
+Dane pochodzą z https://www.kaggle.com/datasets/shalfey/extended-crab-age-prediction. Zbiór danych zawiera pomiary fizyczne krabów oraz informacje o ich wieku.
 
 ### Charakterystyka danych
 Zbiór danych zawiera następujące atrybuty:
